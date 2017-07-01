@@ -1,0 +1,16 @@
+.idea/*
+/idea/*
+.sencha/*
+/sencha/*
+build/*
+/build/*
+.ext/*
+/ext/*
+.overrides/*
+/overrides/*
+.packages/*
+/packages/*
+.images/*
+/images/*
+.sass/*
+/sass/*
